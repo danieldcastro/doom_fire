@@ -1,0 +1,4 @@
+#Thu Nov 09 17:58:18 BRT 2023
+base.0=C\:\\Users\\m.daniel\\Dev\\doom_fire\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
